@@ -1,4 +1,2 @@
 [tools]
-kubectl = "latest"
 python = "latest"
-vim = "latest"
